@@ -1,2 +1,2 @@
 # zero-web-school
-first project
+first project with zero web school
